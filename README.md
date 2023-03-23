@@ -1,7 +1,7 @@
 - 👋 Ici Alexys !
 
 - 🌱 Je débute mais j'essaie de balayer un max pour ensuite approfondir en pratiquant autant que je peux !
-- 🔧 Je fais du front (React) et je travaille le Java et le C# pour l'OOP !
+- 🔧 Je fais du front et je travaille le Java et le C# pour l'OOP !
 
 - 📚 On en apprend tous les jours, dès 8h du matin ! Pas de temps à perdre pour prendre son avenir en main !
 
